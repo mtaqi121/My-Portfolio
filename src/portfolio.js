@@ -35,7 +35,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/mtaqi121",
-  // linkedin: "",
+  linkedin: "http://www.linkedin.com/in/taqi-bagla-426535389",
   gmail: "mtaqibagla@gmail.com",
   gitlab: "https://gitlab.com/mtaqibagla",
   facebook: "https://www.facebook.com/share/17A9wxxHjP/",
